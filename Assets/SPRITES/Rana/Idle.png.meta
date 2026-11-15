@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 86fd69c27d5afb14cb24d09087dac86c
+guid: d8e7408f2ea22b74ab92521e857df144
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -118,10 +118,10 @@ TextureImporter:
       name: Idle_0
       rect:
         serializedVersion: 2
-        x: 408
-        y: 1929
-        width: 16
-        height: 26
+        x: 9
+        y: 1178
+        width: 592
+        height: 663
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,10 +140,10 @@ TextureImporter:
       name: Idle_1
       rect:
         serializedVersion: 2
-        x: 9
-        y: 1178
-        width: 592
-        height: 663
+        x: 679
+        y: 1170
+        width: 588
+        height: 665
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +162,10 @@ TextureImporter:
       name: Idle_2
       rect:
         serializedVersion: 2
-        x: 556
-        y: 1169
-        width: 1355
-        height: 670
+        x: 1315
+        y: 1166
+        width: 719
+        height: 665
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       name: Idle_3
       rect:
         serializedVersion: 2
-        x: 1735
-        y: 1595
+        x: 1951
+        y: 1592
         width: 8
         height: 9
       alignment: 0
@@ -206,10 +206,10 @@ TextureImporter:
       name: Idle_4
       rect:
         serializedVersion: 2
-        x: 16
-        y: 526
-        width: 621
-        height: 612
+        x: 5
+        y: 690
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Idle_5
       rect:
         serializedVersion: 2
-        x: 1779
-        y: 229
-        width: 269
-        height: 259
+        x: 44
+        y: 429
+        width: 592
+        height: 663
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
